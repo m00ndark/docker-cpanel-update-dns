@@ -1,5 +1,5 @@
 FROM python:alpine
-MAINTAINER Niklas Ekman (niklas.ekman@gmail.com)
+MAINTAINER Mattias Wijkstrom (mattias.wijkstrom@gmail.com)
 
 ENV USERNAME="" \
     PASSWORD="" \
